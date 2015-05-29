@@ -14,7 +14,7 @@ Please cite the above paper if you use this code.
 If you have any questions/comments/suggestions, please contact Minjie ([chokkyvista06@gmail.com](mailto:chokkyvista06@gmail.com)) or Balaji 
 ([balaji@gatsby.ucl.ac.uk](mailto:balaji@gatsby.ucl.ac.uk)).
 
-Code released under MIT license (see COPYING for more info).
+Code released under MIT license (see LICENSE for more info).
 
 Copyright (c) 2015, Minjie Xu and Balaji Lakshminarayanan
 
