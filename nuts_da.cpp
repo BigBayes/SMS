@@ -14,6 +14,7 @@
 #include <cmath>
 #include <random>
 #include <stdio.h>
+#include <algorithm>
 #include <string.h>
 #include <time.h>
 
